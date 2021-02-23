@@ -4,7 +4,6 @@
   - I have over 7 years of working experience in the backend development, 3 years as a Team Lead/Solution Architect. 
   - My full CV is here: [Linkedin](https://www.linkedin.com/in/roldukhin/)
 
-Hard skills:
 - Experienced in scalable and fault-tolerance distributed microservices, last 5 years I'm working with distributed applications.
   - T-shaped. I need know how code gets to production and what's going on around and how to optimise it. 
 You don't need to implement a lot of code if you can you some standard tools from devops toolchain, for example.
@@ -15,8 +14,6 @@ Know something new - it's most interesting part of developer job :)
 Experienced in engineers practices and automation testing (integration/e2e/performance), like Selenide!
 Solve incidents fast - it's most stressful part of developer job, I prefer to sleep well :)
 
-
-Soft skills:
 - Business oriented. I have an Agile mindset, like to solve problems of real clients, ideally without code. 
 Make a suppose and get the feedback, optimise it. 
 Help to real people - it's most enjoyable part of developer job :)
